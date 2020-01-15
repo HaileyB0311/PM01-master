@@ -4,9 +4,12 @@ For Project Milestone 01, schedule a site visit with your service learning custo
 
 ## Deliverables
 
-Push to this repository by Friday, January 17th with:
-
-1. The date you and your customer agree to the visit. The date you visit does not have to be before Friday, just an agreed upon date by Friday. 
-2. A list of 5 questions you plan to ask your customer during this visit. 
-3. The name(s) of the person(s) you will be meeting.
-4. The location of the visit. 
+1. We will be meeting with our customer on Friday, January 17th during class time.
+2. The five questions we plan to ask our customer during this visit are...
+    1.
+    2.
+    3.
+    4.
+    5.
+3. We will be meeting with Jennifer Lainhart.
+4. We will be meeting at Hope's Wings in Richmond, Kentucky. The exact address is unknown - we presume for safety reasons - but we have directions from Jennifer on how to find the location.
